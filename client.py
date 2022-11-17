@@ -2,7 +2,7 @@ from DH_class import DH_Endpoint
 import socket
 
 HOST = 'localhost'
-PORT = 8132
+PORT = 8133
 
 sock = socket.socket()
 sock.connect((HOST, PORT))

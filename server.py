@@ -3,7 +3,7 @@ import random
 import socket
 
 HOST = 'localhost'
-PORT = 8132
+PORT = 8133
 
 sock = socket.socket()
 sock.bind((HOST, PORT))
